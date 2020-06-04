@@ -1,8 +1,8 @@
 # Calculator Application
 
-#### Forms and jQuery, UI Logic and Business Logic separation practice for Epicodus, 06.03.2020
+#### Forms, branching and jQuery, UI Logic and Business Logic separation practice for Epicodus, 06.03.2020
 
-#### By Brittany Lindgren Vanessa Guerrero
+#### By Brittany Lindgren, Vanessa Guerrero and Mark Tiapkov
 
 ## Description
 
@@ -35,4 +35,4 @@ Please feel free to contact either of the authors through GitHub (username: LIND
 
 *This site is licensed under the MIT license.*
 
-Copyright (c) 2020 **_Brittany A Lindgren & Vanessa Guerrero_**
+Copyright (c) 2020 **_Brittany A Lindgren & Vanessa Guerrero & Mark Tiapkov_**
