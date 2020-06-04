@@ -18,7 +18,12 @@ This application will allow you to add, subtract, multiply and divide any two nu
 
 ## Known Bugs
 
-There are no known bugs at this time. 
+Result does not show in browser. 
+Error message:
+Uncaught TypeError: Assignment to constant variable.
+    at HTMLFormElement.<anonymous> (scripts.js:28)
+    at HTMLFormElement.dispatch (jquery-3.5.1.min.js:2)
+    at HTMLFormElement.v.handle (jquery-3.5.1.min.js:2) 
 
 ## Support and contact details
 
